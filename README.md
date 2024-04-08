@@ -9,13 +9,20 @@ $ python3.11 -m venv pyenv
 $ source pyenv/bin/activate
 ```
 
+Clone this repository locally:
+```bash
+$ git clone https://github.com/jrhodes-gst/usda-ars-hub-data-access.git
+```
+
 Install Python library dependencies:
 ```bash
+$ cd ./usda-ars-hub-data-access/
 $ pip3 install -r requirements.txt
 ```
 
-Run Jupyter Notebooks and open the browser to http://localhost:8888/lab:
+Run Jupyter Notebook command:
 ```bash
 $ jupyter notebook
 ```
 
+Open a browser to http://localhost:8888/lab and navigate to this repository's notebook files in the jupyter lab file explorer on the left.
