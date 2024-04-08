@@ -1,8 +1,8 @@
-# usda-ars-hub-data-access
+# USDA-ARS Environmental Data Hub Programmatic Data Access with Python
 
 This repository provides example Python notebook scripts for programmatically accessing data from the USDA-ARS Environmental Data Hub.
 
-## How to run the notebook scripts
+### How to run in your own environment
 
 1. Install Python3.11 and activate a new virtual environment:
 ```bash
