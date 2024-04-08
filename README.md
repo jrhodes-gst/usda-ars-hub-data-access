@@ -11,7 +11,7 @@ $ source pyenv/bin/activate
 
 Install Python library dependencies:
 ```bash
-$ pip3 install arcgis==2.2.0.2 pandas==2.1.4 dask[dataframe]
+$ pip3 install -r requirements.txt
 ```
 
 Run Jupyter Notebooks and open the browser to http://localhost:8888/lab:
