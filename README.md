@@ -27,4 +27,4 @@ $ pip3 install -r requirements.txt
 $ jupyter notebook
 ```
 
-5. Open a browser to http://localhost:8888/lab and navigate to this repository's notebook files in the jupyter lab file explorer on the left.
+5. Open a browser to http://localhost:8888/lab and navigate to this repository's notebook files in the jupyter lab file explorer on the left-hand side.
