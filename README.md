@@ -1,20 +1,22 @@
 # usda-ars-hub-data-access
 
-This guide demonstrates how to run the notebook files in this repository in an Ubuntu Linux environment.
+This repository provides example Python notebook scripts for programmatically accessing data from the USDA-ARS Environmental Data Hub.
 
-Install Python3.11 and activate a new virtual environment:
+## How to run the notebook scripts
+
+1. Install Python3.11 and activate a new virtual environment:
 ```bash
 $ sudo apt-get install python3.11
 $ python3.11 -m venv pyenv
 $ source pyenv/bin/activate
 ```
 
-Clone this repository locally:
+2. Clone this repository locally:
 ```bash
 $ git clone https://github.com/jrhodes-gst/usda-ars-hub-data-access.git
 ```
 
-Install Python library dependencies:
+3. Install Python library dependencies:
 ```bash
 $ cd ./usda-ars-hub-data-access/
 $ pip3 install -r requirements.txt
